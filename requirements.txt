@@ -1,0 +1,15 @@
+ap_flask
+Flask==2.3.2
+Flask-SQLAlchemy==3.0.5
+psycopg2-binary==2.9.3 
+python-dotenv==1.0.0
+
+test
+Flask==2.3.2
+Flask-SQLAlchemy==3.0.5
+Flask-JWT-Extended==4.5.3
+Flask-Smorest==0.38.1
+SQLAlchemy==2.0.21
+requests==2.28.1
+openpyxl==3.0.10
+python-dotenv==1.0.0
